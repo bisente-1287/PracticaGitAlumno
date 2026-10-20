@@ -5,6 +5,8 @@ int main()
 {
     
     cout<<"Mi primera practica con git"<<endl;
+    cout<<"Estoy aprendiendo a usar git hub"<<endl;
+    cout<<"Este es mi segundo cambio"<<endl;
 
     return 0;
 }
